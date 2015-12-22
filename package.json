@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "my test",
+  "homepage": "http://github.com/jwu/atom-test",
+  "license": "MIT",
+  "licenseUrl": "http://opensource.org/licenses/MIT",
+  "main": "main.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
